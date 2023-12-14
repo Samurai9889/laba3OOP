@@ -1,0 +1,14 @@
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\bin\Debug\net8.0\Laba3OOP.exe
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\bin\Debug\net8.0\Laba3OOP.deps.json
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\bin\Debug\net8.0\Laba3OOP.runtimeconfig.json
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\bin\Debug\net8.0\Laba3OOP.dll
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\bin\Debug\net8.0\Laba3OOP.pdb
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\Laba3OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\Laba3OOP.AssemblyInfoInputs.cache
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\Laba3OOP.AssemblyInfo.cs
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\Laba3OOP.csproj.CoreCompileInputs.cache
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\Laba3OOP.dll
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\refint\Laba3OOP.dll
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\Laba3OOP.pdb
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\Laba3OOP.genruntimeconfig.cache
+C:\Users\edikk\source\repos\Laba3OOP\Laba3OOP\obj\Debug\net8.0\ref\Laba3OOP.dll
